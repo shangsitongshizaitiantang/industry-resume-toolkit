@@ -1,15 +1,37 @@
+<div align="center">
+
 # Industry Resume Toolkit
 
-> [English](README_EN.md) | 中文
+### 「**更适合中国宝宝体质的简历方法论**」
 
-**为中国 industry 求职者打造的简历优化方法论 toolkit。**
-**这不是 AI 简历生成器,是把"资深 HR 顾问怎么改简历"这件事 codify 出来。**
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blue.svg)](https://docs.claude.com)
+[![LLM Agnostic](https://img.shields.io/badge/LLM-Agnostic-purple.svg)](#)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Free-green.svg)](LICENSE)
+[![Made for](https://img.shields.io/badge/Made%20for-Chinese%20Industry%20Job%20Seekers-red.svg)](README.md)
 
-```
-GitHub 上的简历项目大多是程序员的 / 学术 CV 的 / 通用模板的。
-这个 toolkit 专门做被忽视的部分:
-    大厂、国企、银行、外企 — 中国 industry 求职。
-```
+<br>
+
+简历投了 100 份没回音,不知道哪里出了问题?<br>
+找 AI 工具改简历,发现都是国外学术 CV / 程序员模板?<br>
+大厂、国企、银行、外企明明完全不同,你却用同一份简历投到处?<br>
+转行 / 海归 / 应届零经验,根本不知从哪改起?<br>
+
+<br>
+
+**专为中国 industry 求职者打造的开源简历方法论**
+
+**4 套企业性质规则 · 12 套岗位规则 · 4 个一键命令**
+
+[English](README_EN.md) · [安装](#怎么装) · [快速开始](#怎么用) · [岗位规则](#岗位-patterns第二个维度) · [Roadmap](#roadmap)
+
+</div>
+
+---
+
+> **v0.1 更新**:发布——含三层框架(信息卫生 / 业务价值翻译 / 经历挖掘)、4 套企业性质 patterns(大厂 / 国企 / 银行 / 外企)、12 套岗位 patterns、4 个 slash command(诊断 / 改简历 / JD匹配 / 加规则)、双语 README、Mac 一键安装脚本。
+
+---
 
 ---
 
