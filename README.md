@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blue.svg)](https://docs.claude.com)
 [![LLM Agnostic](https://img.shields.io/badge/LLM-Agnostic-purple.svg)](#)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Free-green.svg)](LICENSE)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Non--Commercial-green.svg)](LICENSE)
 [![Made for](https://img.shields.io/badge/Made%20for-Chinese%20Industry%20Job%20Seekers-red.svg)](README.md)
 
 <br>
