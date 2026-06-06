@@ -243,7 +243,6 @@ sh install.sh
 - ✅ 简历 bullet 自动标 ✅ 真实 / ⚠️ 待确认 / ❌ 待补
 
 **v0.3+(规划中)— 配套生态**
-- `/cover-letter` — 求职信生成
 - `/interview-prep` — 面试准备(基于简历 + JD) 🚩面试官深挖简历（划重点！）
 - npm 一键安装 + Codex 跨平台支持
 - 更多岗位 patterns(采购 / 客服 / 行政 / 投资 / 工程细分 等)
